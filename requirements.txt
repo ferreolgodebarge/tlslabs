@@ -1,0 +1,8 @@
+asn1crypto==0.24.0
+cffi==1.12.2
+cryptography==2.5
+nassl==2.1.2
+pycparser==2.19
+six==1.12.0
+sslyze==2.0.6
+tls-parser==1.2.1
